@@ -29,7 +29,7 @@ function App() {
 
   return (
     <>
-      {/* <Conditions size={10} name='fff'></Conditions> */}
+      <Conditions size={10} name='fff'></Conditions> 
 
       {
         objects.map((obj, index) =>
