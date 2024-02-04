@@ -30,6 +30,7 @@ function App() {
   return (
     <>
       <Conditions size={10} name='fff'></Conditions> 
+      <div>ruti branch</div>
 
       {/*
         objects.map((obj, index) =>
