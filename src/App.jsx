@@ -31,14 +31,14 @@ function App() {
     <>
       <Conditions size={10} name='fff'></Conditions> 
 
-      {
+      {/*
         objects.map((obj, index) =>
           <div key={index}>
             <Object title={obj.title} desc={obj.desc} age={obj.age} ></Object>
             {obj.title}
           </div>
         )
-      }
+  */}
     </>
   )
 }
